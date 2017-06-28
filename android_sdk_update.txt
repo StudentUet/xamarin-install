@@ -1,0 +1,37 @@
+Tools
+1. Android SDK Tools
+2. Android SDK Platform-tools
+3. Android SDK Build-tools
+
+Uncheck Android 8.0.0 (API 26)
+
+Android 7.1.1 (API 25)
+1. SDK Platform
+2. Google APIs Intel x86 Atom_64 System Image
+
+Android 7.0 (API 24)
+1. SDK Platform
+
+Android 6.0 (API 23)
+1. SDK Platform
+2. Google APIs Intel x86 Atom_64 System Image
+
+Android 5.1.1 (API 22)
+1. SDK Platform
+
+Android 5.0.1 (API 21)
+1. SDK Platform
+2. Google APIs Intel x86 Atom_64 System Image
+
+Android 4.4.2 (API 19)
+1. SDK Platform
+2. Google APIs Intel x86 Atom System Image
+
+Android 4.1.2 (API 16)
+1. SDK Platform
+2. Google APIs Intel x86 Atom System Image
+
+Extras
+1. Android Support Repository
+2. Google Play Services
+3. Google USB Driver
